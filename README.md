@@ -1,5 +1,5 @@
 # Google Landmark Recognition 2019
-
+![google](https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_14%2Fproject_374127%2Fimages%2Fpictures%2Frec_demo.jpg)
 ## Context
 Today, a great obstacle to landmark recognition research is the lack of large annotated datasets. In the Kagglecompetition, a largest worldwide dataset to date, to foster progress in the problem. This competition challenges Kagglers to build models that recognize the correct landmark (if any) in a dataset of challenging test images.
 
