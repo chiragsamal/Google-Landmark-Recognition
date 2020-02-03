@@ -15,3 +15,7 @@ The training set was constructed by clustering photos with respect to their geol
 
 ## Jupyter Notebook
 In this Jupyter Notebook, I have tried to do an Extensive Exploratory Data Analysis of Google Landmark Recognition Challenge from Displaying various Landmarks to Famous Landmarks.
+
+
+### Refrences
+ - https://www.kaggle.com/codename007/a-very-extensive-landmark-exploratory-analysis
