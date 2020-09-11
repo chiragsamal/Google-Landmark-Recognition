@@ -1,13 +1,13 @@
-# Google Landmark Recognition 2019
-![google](https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_14%2Fproject_374127%2Fimages%2Fpictures%2Frec_demo.jpg)
+# Google Landmark Recognition 2020
+![Google LAndmark Recognition](https://miro.medium.com/max/2680/1*d70CQj7zmTsy01WQvi5cpg.jpeg)
 ## Context
 Today, a great obstacle to landmark recognition research is the lack of large annotated datasets. In the Kagglecompetition, a largest worldwide dataset to date, to foster progress in the problem. This competition challenges Kagglers to build models that recognize the correct landmark (if any) in a dataset of challenging test images.
 
 Many Data Scientists are familiar with image classification challenges like the ImageNet Large Scale Visual Recognition Challenge (ILSVRC), which aims to recognize 1K general object categories. Landmark recognition is a little different from that: it contains a much larger number of classes (there are more than 200K classes in this challenge), and the number of training examples per class may not be very large. Landmark recognition is challenging in its own way.
 
-This is the second edition of this Google Landmark Recognition challenge. Compared to the first edition, the new dataset is more comprehensive and diverse. 
+This is the third edition of this Google Landmark Recognition challenge. Compared to the first edition, the new dataset is more comprehensive and diverse. 
 
-This challenge is organized in conjunction with the Landmark Retrieval Challenge (https://www.kaggle.com/c/landmark-retrieval-2019 ). In particular, note that the test set for both challenges is the same, to encourage participants to compete in both.
+This challenge is organized in conjunction with the Landmark Retrieval Challenge (https://www.kaggle.com/c/landmark-retrieval-2020). In particular, note that the test set for both challenges is the same, to encourage participants to compete in both.
 
 ### Understanding the Data
 
@@ -17,7 +17,7 @@ The training set was constructed by clustering photos with respect to their geol
 In this Jupyter Notebook, I have tried to do an Extensive Exploratory Data Analysis of Google Landmark Recognition Challenge from Displaying various Landmarks to Famous Landmarks.
 
 
-Dataset Link: [Landmark Recognition Dataset](https://www.kaggle.com/c/landmark-recognition-challenge/data)
+Dataset Link: [Landmark Recognition Dataset](https://www.kaggle.com/c/landmark-recognition-2020/data)
 
 ### Refrences
  - [A Very Extensive Landmark Exploratory Analysis](https://www.kaggle.com/codename007/a-very-extensive-landmark-exploratory-analysis)
